@@ -1,5 +1,6 @@
 # usersManagementAPI
-User management CRUD API
+User management CRUD API. 
+The code project is under the "master" branch
 
 Getting Started
 
