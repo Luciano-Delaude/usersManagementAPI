@@ -77,7 +77,7 @@ namespace usersManagementAPI.Controllers
         }
 
         [HttpDelete]
-        [Route("Eliminar/{id}")]
+        [Route("DeleteUser/{id}")]
         public async Task<IActionResult> DeleteUser(int id)
         {
             try

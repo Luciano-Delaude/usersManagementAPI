@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\userManagementTests\\userManagementTests.csproj": {}
+    "C:\\Users\\lucho\\Documents\\C#\\userManagementTests\\userManagementTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\userManagementTests\\userManagementTests.csproj": {
+    "C:\\Users\\lucho\\Documents\\C#\\userManagementTests\\userManagementTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\userManagementTests\\userManagementTests.csproj",
+        "projectUniqueName": "C:\\Users\\lucho\\Documents\\C#\\userManagementTests\\userManagementTests.csproj",
         "projectName": "userManagementTests",
-        "projectPath": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\userManagementTests\\userManagementTests.csproj",
+        "projectPath": "C:\\Users\\lucho\\Documents\\C#\\userManagementTests\\userManagementTests.csproj",
         "packagesPath": "C:\\Users\\lucho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\userManagementTests\\obj\\",
+        "outputPath": "C:\\Users\\lucho\\Documents\\C#\\userManagementTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\usersManagementAPI.csproj": {
-                "projectPath": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\usersManagementAPI.csproj"
+              "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\usersManagementAPI.csproj": {
+                "projectPath": "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\usersManagementAPI.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\usersManagementAPI.csproj": {
+    "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\usersManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\usersManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\usersManagementAPI.csproj",
         "projectName": "usersManagementAPI",
-        "projectPath": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\usersManagementAPI.csproj",
+        "projectPath": "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\usersManagementAPI.csproj",
         "packagesPath": "C:\\Users\\lucho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",

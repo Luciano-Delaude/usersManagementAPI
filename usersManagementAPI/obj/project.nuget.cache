@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyyUyqUs/4BYPu3S+QxKcaY3+zVV2o6dx4BG5L+OgGPsSPCkzfdaJOaKk/OfsgF7EyuvLBDJPHnb9Kr8S5Lv9w==",
+  "dgSpecHash": "kKS8RnzR+GAjcx89a3npyz7E1i4QpS54DAwzJdk57XR7Aeml0KU4VoD0Nti87vwng+gz8eVdIJYTfSHDlOirAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucho\\source\\repos\\usersManagementAPI\\usersManagementAPI\\usersManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\lucho\\Documents\\C#\\usersManagementAPI\\usersManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucho\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lucho\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
